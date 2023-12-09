@@ -1,0 +1,380 @@
+[
+  {
+    "region": "Colombo, SL",
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["charity-2-1.jpg", "charity-2-2.jpg", "charity-2-3.jpg"],
+    "startDate": "2021-06-19T09:00:00.000Z",
+    "_id": "5c88fa8cf4afda39709c2955",
+    "name": "Childhood Education",
+    "numPeople": 15,
+    "category": "education",
+    "organizers": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+    "donationAmount": 497,
+    "summary": "Promoting quality education for underprivileged children in Sri Lanka",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "imageCover": "charity-2-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Colombo Public Library",
+        "type": "Point",
+        "coordinates": [79.85861679619394, 6.912742136249663],
+        "address": "15 Sir Marcus Fernando Mawatha, Colombo 00700"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2958",
+        "description": "University of Moratuwa",
+        "type": "Point",
+        "coordinates": [79.90100807483569, 6.798602827588054],
+        "address": "Bandaranayake Mawatha, Moratuwa 10400"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2957",
+        "description": "National Library of Sri Lanka",
+        "type": "Point",
+        "coordinates": [79.8656487241192, 6.9062550599543],
+        "address": "14 Independence Ave, Colombo 00700"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2956",
+        "description": "Lady Ridgeway Hospital for Children",
+        "type": "Point",
+        "coordinates": [79.87547699245246, 6.920321349451104],
+        "address": "Dr Danister De Silva Mawatha, Colombo 00800"
+      }
+    ]
+  },
+  {
+    "region": "Kandy, SL",
+    "ratingsAverage": 5,
+    "ratingsQuantity": 9,
+    "images": ["charity-1-1.jpg", "charity-1-2.jpg", "charity-1-3.jpg"],
+    "startDate": "2021-04-25T09:00:00.000Z",
+    "_id": "5c88fa8cf4afda39709c2951",
+    "name": "Elderly Care Network",
+    "numPeople": 25,
+    "category": "elderly",
+    "organizers": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a1f292f8fb814b56fa184"
+    ],
+    "donationAmount": 397,
+    "summary": "Providing care and support to the elderly in our community",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "imageCover": "charity-1-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2954",
+        "description": "Degalldoruwa Raja Maha Viharaya",
+        "type": "Point",
+        "coordinates": [80.66422817519073, 7.305882963333697],
+        "address": "55 Sirimalwatta, Amunugama, Madawala Rd, Sirimalwatta"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2953",
+        "description": "Kandy City Centre",
+        "type": "Point",
+        "coordinates": [80.63696205295811, 7.292413317944203],
+        "address": "Sri Dalada Veediya, Kandy 20000"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2952",
+        "description": "University of Peradeniya",
+        "type": "Point",
+        "coordinates": [80.59758885088436, 7.257520639089281],
+        "address": "Galaha Rd, 20400"
+      }
+    ]
+  },
+  {
+    "region": "Jaffna, SL",
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 6,
+    "images": ["charity-3-1.jpg", "charity-3-2.jpg", "charity-3-3.jpg"],
+    "startDate": "2022-01-05T10:00:00.000Z",
+    "_id": "5c88fa8cf4afda39709c295a",
+    "name": "Healthcare for All",
+    "numPeople": 10,
+    "category": "health",
+    "organizers": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "donationAmount": 997,
+    "summary": "Ensuring access to essential healthcare services for all",
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+    "imageCover": "charity-3-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c295c",
+        "description": "University of Jaffna",
+        "type": "Point",
+        "coordinates": [80.02301377997536, 9.684147513312972],
+        "address": "57, Ramanathan Road Thirunelvely, Jaffna"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295b",
+        "description": "Nallur Kandaswamy Temple",
+        "type": "Point",
+        "coordinates": [80.02980388791761, 9.674416037575343],
+        "address": "177 Jaffna-Point Pedro Road, Jaffna"
+      }
+    ]
+  },
+  {
+    "region": "Galle, SL",
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["charity-5-1.jpg", "charity-5-2.jpg", "charity-5-3.jpg"],
+    "startDate": "2021-08-05T09:00:00.000Z",
+    "_id": "5c88fa8cf4afda39709c2961",
+    "name": "Green Planet Initiative",
+    "numPeople": 15,
+    "category": "environment",
+    "organizers": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a201e2f8fb814b56fa186"
+    ],
+    "donationAmount": 1497,
+    "summary": "Working towards a greener planet through conservation efforts",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!",
+    "imageCover": "charity-5-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2965",
+        "description": "Kaludiya Pokuna",
+        "type": "Point",
+        "coordinates": [80.26465199700665, 6.3358290604778995],
+        "address": "211 Godamuna-Bangamukanda Rd, Pitigala"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2964",
+        "description": "Teaching Hospital Karapitiya",
+        "type": "Point",
+        "coordinates": [80.22603602695415, 6.068400835720373],
+        "address": "Karapitiya Junction, Galle 80000"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2963",
+        "description": "Kachchiwatta Ancient Temple",
+        "type": "Point",
+        "coordinates": [80.23310590508112, 6.037625381680993],
+        "address": "10 Kachchiwatta Rd, Galle 80000"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2962",
+        "description": "Base Hospital Udugama",
+        "type": "Point",
+        "coordinates": [80.34111896831114, 6.189668835030301],
+        "address": "B129, Udugama, Galle"
+      }
+    ]
+  },
+  {
+    "region": "Ampara, SL",
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 5,
+    "images": ["charity-4-1.jpg", "charity-4-2.jpg", "charity-4-3.jpg"],
+    "startDate": "2021-03-11T10:00:00.000Z",
+    "_id": "5c88fa8cf4afda39709c295d",
+    "name": "Child Nutrition",
+    "numPeople": 20,
+    "category": "child",
+    "organizers": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+    "donationAmount": 1197,
+    "summary": "Ensuring proper nutrition for children in low-income families",
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat lorem ipsum dolor sit amet.\nConsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+    "imageCover": "charity-4-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2960",
+        "description": "District General Hospital Ampara",
+        "type": "Point",
+        "coordinates": [81.68944906631188, 7.300307196114499],
+        "address": "Dharmapala Mawatha, Ampara 32000"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295f",
+        "description": "Buddhangala Viharaya",
+        "type": "Point",
+        "coordinates": [81.70282425261314, 7.332611111447472],
+        "address": "833, Ampara, Buddangala"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295e",
+        "description": "Ampara Airport",
+        "type": "Point",
+        "coordinates": [81.62988747810478, 7.342829732197775],
+        "address": "323, Uhana, Ampara"
+      }
+    ]
+  },
+  {
+    "region": "Gampaha, SL",
+    "ratingsAverage": 3.9,
+    "ratingsQuantity": 7,
+    "images": ["charity-6-1.jpg", "charity-6-2.jpg", "charity-6-3.jpg"],
+    "startDate": "2021-07-19T09:00:00.000Z",
+    "_id": "5c88fa8cf4afda39709c2966",
+    "name": "Senior Fitness Project",
+    "numPeople": 8,
+    "category": "elderly",
+    "organizers": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a1f292f8fb814b56fa184",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "donationAmount": 2997,
+    "summary": "Promoting physical fitness and well-being among senior citizens",
+    "description": "Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nVoluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur!",
+    "imageCover": "charity-6-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296b",
+        "description": "Kelaniya Raja Maha Viharaya",
+        "type": "Point",
+        "coordinates": [79.91848049804214, 6.951975074545228],
+        "address": "Kelaniya Raja Maha Viharaya, Kelaniya 13000"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296a",
+        "description": "University of Kelaniya",
+        "type": "Point",
+        "coordinates": [79.91512527891491, 6.9776879886949015],
+        "address": "Kandy Road, Dalugama, Kelaniya 11600"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2969",
+        "description": "Bandaranaike International Airport",
+        "type": "Point",
+        "coordinates": [79.88463530266222, 7.181934190484055],
+        "address": "01, Katunayake-Colombo Road, Katunayake"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2968",
+        "description": "Tewatta Church",
+        "type": "Point",
+        "coordinates": [79.93425014950179, 7.035716529966528],
+        "address": "293, Lankamatha Rd, Ragama"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2967",
+        "description": "",
+        "type": "Point",
+        "coordinates": [80.08787169379033, 7.146939194679636],
+        "address": "438, Kandy Road, Nittambuwa"
+      }
+    ]
+  },
+  {
+    "region": "Kalutara, SL",
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["charity-8-1.jpg", "charity-8-2.jpg", "charity-8-3.jpg"],
+    "startDate": "2021-03-23T10:00:00.000Z",
+    "_id": "5c88fa8cf4afda39709c2970",
+    "name": "Mental Health Awareness",
+    "numPeople": 8,
+    "category": "health",
+    "organizers": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
+    "donationAmount": 2997,
+    "summary": "Raising awareness about mental health and providing resources for support",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "imageCover": "charity-8-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2973",
+        "description": "Base Hospital Panadura",
+        "type": "Point",
+        "coordinates": [79.90697461624042, 6.721996533842129],
+        "address": "A2, Galle Road, Panadura"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2972",
+        "description": "Teaching Hospital Kalutara",
+        "type": "Point",
+        "coordinates": [79.98566430421293, 6.564951070973349],
+        "address": "Kalutara-Matugama Rd, Kalutara 12000"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2971",
+        "description": "Sea Turtles Conservation",
+        "type": "Point",
+        "coordinates": [80.03828816642744, 6.302084919976293],
+        "address": "728, Ahungalla, Balapitiya"
+      }
+    ]
+  },
+  {
+    "region": "Kegalle, SL",
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["charity-9-1.jpg", "charity-9-2.jpg", "charity-9-3.jpg"],
+    "startDate": "2021-12-16T10:00:00.000Z",
+    "_id": "5c88fa8cf4afda39709c2974",
+    "name": "Eco Education Drive",
+    "numPeople": 12,
+    "category": "environment",
+    "organizers": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a23412f8fb814b56fa18c"
+    ],
+    "donationAmount": 1497,
+    "summary": "Educating the public about environmental issues and sustainable practices",
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+    "imageCover": "charity-9-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2975",
+        "description": "Police Station Kegalle",
+        "type": "Point",
+        "coordinates": [80.35345973045791, 7.256581823243539],
+        "address": "778, Nilwakka Rd, Kegalle"
+      }
+    ]
+  },
+  {
+    "region": "Mannar, SL",
+    "ratingsAverage": 4.4,
+    "ratingsQuantity": 7,
+    "images": ["charity-7-1.jpg", "charity-7-2.jpg", "charity-7-3.jpg"],
+    "startDate": "2021-02-12T10:00:00.000Z",
+    "_id": "5c88fa8cf4afda39709c296c",
+    "name": "Kids Reading Club",
+    "numPeople": 8,
+    "category": "education",
+    "organizers": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
+    "donationAmount": 1997,
+    "summary": "Improving literacy rates among children through dedicated reading programs",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "imageCover": "charity-7-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296f",
+        "description": "Mannar Dutch Fort",
+        "type": "Point",
+        "coordinates": [79.91778597898617, 8.97800415143212],
+        "address": "41000, Mannar Dutch Fort, Mannar"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296e",
+        "description": "Base Hospital Murunkan",
+        "type": "Point",
+        "coordinates": [80.03797052593352, 8.845761368500519],
+        "address": "347, Isaimalaithalvu, Murunkan"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296d",
+        "description": "Pandiviruchan Kovil",
+        "type": "Point",
+        "coordinates": [80.22378178366702, 8.83896393018551],
+        "address": "634, Pandiviruchan, Madu"
+      }
+    ]
+  }
+]
